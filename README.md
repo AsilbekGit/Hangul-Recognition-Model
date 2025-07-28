@@ -10,3 +10,6 @@ This repository contains the implementation of a Hangul (Korean) handwritten cha
 
 The dataset used for training and evaluation can be accessed from the following link:  
 https://drive.google.com/file/d/1gYB6dJ_KLcBJP-qSo5K5wnfXT5wWpMok/view?usp=sharing
+
+For training a model the open source dataset for used: 
+https://www.kaggle.com/datasets/jkim289/handwritten-korean-characters/data
